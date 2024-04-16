@@ -13,7 +13,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('StageThree') {
       steps {
         echo 'Done with Pipeline'
       }
